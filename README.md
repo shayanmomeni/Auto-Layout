@@ -1,5 +1,5 @@
 # Auto-Layout
-Simple Responsive Layout Practice 
+Responsive Layout Practice 
 
 Goal 🎯
 
